@@ -6,6 +6,6 @@ There are total 8 java files:-
                 Running.java                -           class for activity type - RUNNING
                 Walking.java                -           class for activity type - WALKING
                 Main.java                   -           This is the main file which is interacting with the user.
-		    Node.java			  -           This is our Node class which helps to implement LL
+		Node.java			  -           This is our Node class which helps to implement LL
 
 For compiling, we have to load all classes and need to interact with only main.java
